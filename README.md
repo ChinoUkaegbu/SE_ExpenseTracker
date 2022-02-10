@@ -1,5 +1,7 @@
 # SE_ExpenseTracker
 
-Group Members
-Fatima Nadeem - fn2039
-Chinonyerem Ukaegbu - cou210
+## Group Members
+
+1. Fatima Nadeem - fn2039
+
+2. Chinonyerem Ukaegbu - cou210
