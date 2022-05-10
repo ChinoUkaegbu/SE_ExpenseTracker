@@ -5,3 +5,6 @@ This deliverable contains:
 3. A detailed class diagram
 4. A folder containing 3 activity diagrams
 5. A folder containing 3 sequence diagrams
+
+# NOTE
+The diagrams were made in StarUML and this tool does not allow for colons or any punctuation in the object/ class name box. Therefore, we had to compromise on this standard notation
