@@ -1,0 +1,8 @@
+1,Revenue,False,True,2000
+2,Transportation,True,False,150
+3,Clothing,True,False,400
+4,Entertainment,True,False,200
+5,Groceries,True,False,185
+6,Housing,True,False,250
+7,Groceries,True,False,75
+8,Transportation,True,False,50

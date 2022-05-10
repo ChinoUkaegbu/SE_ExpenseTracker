@@ -1,0 +1,13 @@
+1,Transportation,True,False,150
+2,Dining,True,False,55
+3,Entertainment,True,False,45
+4,Groceries,True,False,75
+5,Entertainment,True,False,150
+6,Clothing,True,False,500
+7,Transportation,True,False,120
+8,Dining,True,False,150
+9,Entertainment,True,False,85
+10,Groceries,True,False,150
+11,Groceries,True,False,75
+12,Dining,True,False,25
+13,Entertainment,True,False,50

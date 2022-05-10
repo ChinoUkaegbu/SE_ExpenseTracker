@@ -1,0 +1,4 @@
+1,Spring Move In,20 January 2022,30 January 2022,Transactions during the Spring 2022 dorm move in time
+2,First Seven Weeks - Spring 2022,1 February 2022,28 February 2022,Transactions for first seven weeks
+3,Spring Break,15 March 2022,22 March 2022,Out of UAE trip expenses
+4,Last Seven Weeks - Spring 2022,01 April 2022,30 April 2022,Expenses towards the last seven weeks

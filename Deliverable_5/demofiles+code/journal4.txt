@@ -1,0 +1,8 @@
+1,Transportation,True,False,150
+2,Dining,True,False,25
+3,Groceries,True,False,35
+4,Groceries,True,False,120
+5,Entertainment,True,False,55
+6,Transportation,True,False,25
+7,Dining,True,False,20
+8,Groceries,True,False,35
