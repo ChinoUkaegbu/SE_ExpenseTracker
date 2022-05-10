@@ -3,4 +3,4 @@
 2. Files used for class demo
 
 # Note
-The demo was performed live in the class on 10th May 2022. The files in used for demo.
+The demo was performed live in the class on 10th May 2022. The files in _demofiles+code_ are used for demo.
